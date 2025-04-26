@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-24T00:22:39 BDT" name="Default suite" finished-at="2025-04-24T00:22:41 BDT" duration-ms="1920">
+  <suite started-at="2025-04-27T01:42:02 BDT" name="Default suite" finished-at="2025-04-27T01:42:03 BDT" duration-ms="1526">
     <groups>
     </groups>
-    <test started-at="2025-04-24T00:22:39 BDT" name="Default test" finished-at="2025-04-24T00:22:41 BDT" duration-ms="1920">
-      <class name="APITESTS.TestsExample">
-        <test-method signature="test_1()[pri:0, instance:APITESTS.TestsExample@c8c12ac]" started-at="2025-04-24T00:22:39 BDT" name="test_1" finished-at="2025-04-24T00:22:41 BDT" duration-ms="1876" status="PASS">
+    <test started-at="2025-04-27T01:42:02 BDT" name="Default test" finished-at="2025-04-27T01:42:03 BDT" duration-ms="1526">
+      <class name="APITESTS.TestonLocalAPI">
+        <test-method signature="Delete()[pri:0, instance:APITESTS.TestonLocalAPI@1b7cc17c]" started-at="2025-04-27T01:42:02 BDT" name="Delete" finished-at="2025-04-27T01:42:03 BDT" duration-ms="1484" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_1 -->
-      </class> <!-- APITESTS.TestsExample -->
+        </test-method> <!-- Delete -->
+      </class> <!-- APITESTS.TestonLocalAPI -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
